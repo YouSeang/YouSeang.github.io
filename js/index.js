@@ -47,16 +47,9 @@ function fillTemplate() {
     .find(".description")
     .text(profile.description);
   // Social
-  document
-    .getElementById("linkedin")
-    .setAttribute("href", profile.social.linkedin);
+  document.getElementById("tstory").setAttribute("href", profile.social.tstory);
   document.getElementById("github").setAttribute("href", profile.social.github);
-  document
-    .getElementById("twitter")
-    .setAttribute("href", profile.social.twitter);
-  document
-    .getElementById("stackoverflow")
-    .setAttribute("href", profile.social.stackoverflow);
+  document.getElementById("naver").setAttribute("href", profile.social.naver);
   document.getElementById("dev").setAttribute("href", profile.social.dev);
   document.getElementById("bio-text").innerHTML = profile.bio;
   // Experience

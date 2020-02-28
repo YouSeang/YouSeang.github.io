@@ -7,13 +7,13 @@
 // Change your profile data here
 let profile = {
   picture: "",
-  name: "Guim González",
-  description: "Software Engineer & Fullstack Developer",
+  name: "이민회",
+  description: "Software Develop Engineer",
   bio:
     "I'm a Software Engineer interested in Internet technologies, computer networks and security. From the FullStack development to the most innovative technologies such as Blockchain.<br><br>High level of web languages (JS, HTML and CSS), average level of C and C++. Great understanding of Internet protocols, P2P networks and cloud infrastructures. I work with JS frameworks, JQuery (old days) and React.js (now).",
-  email: "guim.gonzalez@gmail.com",
-  location: "Barcelona, Spain",
-  birth: "1997-07-26", // YYYY-MM-DD format
+  email: "minhoe1122@naver.com",
+  location: "Seoul, Republic of Korea",
+  birth: "1993-11-22", // YYYY-MM-DD format
   skills: [
     "Blockchain",
     "Bitcoin",
@@ -30,10 +30,9 @@ let profile = {
     "Web3"
   ],
   social: {
-    linkedin: "https://www.linkedin.com/in/guim-gonzalez-846606134/",
-    twitter: "https://twitter.com/GuimGonzalez",
-    github: "https://github.com/GuimG/",
-    stackoverflow: "https://stackoverflow.com/users/8700961/guim-gonzalez",
+    tstory: "https://minemanemo.tistory.com/",
+    gmail: "minhoe1122@gmail.com",
+    github: "https://github.com/minemanemo",
     dev: "https://dev.to/guimg"
   },
   experience: [
@@ -68,7 +67,7 @@ let profile = {
       to: "Now"
     }
   ],
-  quote: "I turn coffee into code"
+  quote: "공부하고 구현하고 소통하고"
 };
 
 let page = {
