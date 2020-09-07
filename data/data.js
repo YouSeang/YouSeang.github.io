@@ -37,34 +37,44 @@ let profile = {
   },
   experience: [
     {
-      title: "FullStack Developer",
-      company: "Freelance",
-      url: "https://guimgonzalez.business/",
-      location: "Barcelona, Spain",
+      title: "연구소 서버팀, 연구원",
+      company: "NetMan",
+      url: "",
+      location: "서울시 금천구",
       description:
-        "I do websistes for small businesses. I develop both frontend and backend. I also setup and mantain the VPS.",
-      from: "September 2017",
+        "알면 알 수록 재미있는 개발의 세계, 풀스택 개발자가 목표 입니다.",
+      from: "2018. 01",
       to: "Now"
     },
     {
-      title: "IT Consultant",
-      company: "Innova-TSN",
-      url: "https://www.innova-tsn.com/",
-      location: "Barcelona, Spain",
+      title: "연구소 서버팀, 학생 연구원",
+      company: "NetMan",
+      url: "",
+      location: "서울시 금천구",
       description:
-        "I developed web services, worked with SAS (ETL's), and email marketing with Oracle Eloqua.",
-      from: "July 2018",
-      to: "February 2019"
+        "",
+      from: "2017. 09",
+      to: "2017. 12"
+    },
+    {
+      title: "연구소, 인턴 연구원",
+      company: "NetMan",
+      url: "",
+      location: "서울시 금천구",
+      description: 
+        "",
+      from: "2017. 03",
+      to: "2017. 08"
     }
   ],
   education: [
     {
-      school: "Universitat Autònoma de Barcelona",
-      degree: "Engineering",
-      fieldOfStudy: "Computer Science",
-      location: "Barcelona, Spain",
-      from: "September 2016",
-      to: "Now"
+      school: "고려대학교",
+      degree: "공학사",
+      fieldOfStudy: "컴퓨터정보학과",
+      location: "대한민국, 세종특별시",
+      from: "2012. 03",
+      to: "2018. 02"
     }
   ],
   quote: "공부하고 구현하고 소통하고"
