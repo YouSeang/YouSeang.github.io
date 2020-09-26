@@ -36,7 +36,7 @@ let profile = {
     },
     {
       title: "Korea Communications Standards Commission",
-      company: "Korea Communications Standards Commission",
+      company: "",
       url: "https://www.innova-tsn.com/",
       location: "Yangcheon-gu, Seoul",
       description: "Professional monitoring personnel",
@@ -46,8 +46,9 @@ let profile = {
   ],
   education: [
     {
-      school: "Kyunggi University",
-      degree: "major of Law, doble major of Intellectual Property Studies",
+      school: "경기대학교 (Kyunggi University)",
+      degree:
+        "법학 (major of Law) / 지식재산학 (doble major of Intellectual Property Studies)",
       fieldOfStudy: "",
       location: "Suwon, Kyunggi-Do",
       from: "2012.03",
